@@ -3,6 +3,7 @@
   </head>
   <body>
     <h2 style="font-family: verdana; font-size: 32;">I Am A Beginner</h2>
+    <h2>Coding Only For Fun</h2>
     <h2> Amateur In :</h2>
     <ul>
       <li style="color: orange;"> HTML </li>
